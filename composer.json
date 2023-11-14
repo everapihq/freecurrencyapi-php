@@ -1,5 +1,5 @@
 {
-    "name": "everapi/freecurrencyapi-php",
+    "name": "michaelthedev/freecurrencyapi-php",
     "description": "A PHP wrapper for the freecurrencyapi.com API",
     "keywords": [
         "freecurrencyapi.com",
